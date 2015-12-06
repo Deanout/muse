@@ -12,6 +12,7 @@ gem 'haml'
 gem 'devise'
 gem 'simple_form'
 gem 'paperclip'
+gem 'acts_as_votable'
 ##### END #####
 
 
